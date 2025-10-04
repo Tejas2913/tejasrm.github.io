@@ -6,8 +6,6 @@ This is my **personal portfolio website** showcasing my projects, skills, and ac
 It is built using **HTML, CSS, and JavaScript** and hosted on **Vercel**.  
 All styling and interactivity are included in the HTML file, with an `images` folder for media assets.  
 
-🚫 **Note:** This portfolio includes only the website showcase; it does not include server-side functionality or databases.
-
 
 ## Features
 - 📱 **Responsive Design:** Works seamlessly on desktop, tablet, and mobile devices.
