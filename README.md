@@ -1,7 +1,7 @@
 # **Tejas R M - Personal Portfolio Website**
 
 ## Preview
-<img width="960" height="417" alt="image" src="https://github.com/user-attachments/assets/84d10c1b-18a8-4a4e-be3d-f0af1b5b4cfb" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/de2987d9-1363-4f02-ba19-31bad51308d8" />
 
 
 
