@@ -1,5 +1,9 @@
 # **Tejas R M - Personal Portfolio Website**
 
+## Preview
+<img width="960" height="417" alt="image" src="https://github.com/user-attachments/assets/84d10c1b-18a8-4a4e-be3d-f0af1b5b4cfb" />
+
+
 
 ### Overview
 This is my **personal portfolio website** showcasing my projects, skills, and achievements.  
@@ -8,15 +12,20 @@ All styling and interactivity are included in the HTML file, with an `images` fo
 
 
 ## Features
-- 📱 **Responsive Design:** Works seamlessly on desktop, tablet, and mobile devices.
+- 🖥️ **Responsive Design**  
+  Works seamlessly on desktop, tablet, and mobile devices.
 
-- 🎨 **Custom Styling:** CSS included inside `<style>` tags in HTML for layouts and animations.
+- 🎨 **Custom Styling**  
+  CSS included inside `<style>` tags in HTML for layouts, colors, and smooth animations.
 
-- ⚡ **Interactive Elements:** JavaScript included in HTML for smooth animations and dynamic effects.
+- ⚡ **Interactive Elements**  
+  JavaScript is included in HTML for dynamic effects and smooth interactions.
 
-- 💼 **Projects Showcase:** Highlights selected works with descriptions and links.
+- 💼 **Projects Showcase**  
+  Highlights selected works with descriptions, images, and links.
 
-- 📬 **Contact Section:** Provides a simple way to connect with me.
+- 📬 **Contact Section**  
+  Simple way to connect with me through email, LinkedIn, or GitHub.
 
 
 ## Tech Stack
@@ -43,3 +52,6 @@ All styling and interactivity are included in the HTML file, with an `images` fo
 
 ## License
 This project is **open-source** and can be modified as needed.
+
+
+
