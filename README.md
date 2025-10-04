@@ -1,46 +1,47 @@
-🌐 Tejas R M - Personal Portfolio Website
-<p align="center"> <a href="https://your-vercel-link.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a> </p> <p align="center"> <a href="https://github.com/Tejas2913"><img src="https://img.shields.io/badge/GitHub-Tejas2913-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> <a href="https://www.linkedin.com/in/tejas-r-m-70205a24b/"><img src="https://img.shields.io/badge/LinkedIn-Tejas%20R%20M-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:tejasrm2004@gmail.com"><img src="https://img.shields.io/badge/Email-tejasrm2004@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> </p>
-💡 Overview
+# **Tejas R M - Personal Portfolio Website**
 
-This is my personal portfolio website built to showcase my projects, skills, and experience.
-It is created using HTML, CSS, and JavaScript, and hosted on Vercel.
 
-🚀 Features
+### Overview
+This is my **personal portfolio website** showcasing my projects, skills, and achievements.  
+It is built using **HTML, CSS, and JavaScript** and hosted on **Vercel**.  
+All styling and interactivity are included in the HTML file, with an `images` folder for media assets.  
 
-Responsive Design – Optimized for desktop, tablet, and mobile devices.
+🚫 **Note:** This portfolio includes only the website showcase; it does not include server-side functionality or databases.
 
-Custom Styling – CSS included inside <style> tags in HTML.
 
-Interactive Elements – JavaScript included in HTML for smooth animations and dynamic content.
+## Features
+- 📱 **Responsive Design:** Works seamlessly on desktop, tablet, and mobile devices.
 
-Projects Showcase – Highlights selected works with descriptions and links.
+- 🎨 **Custom Styling:** CSS included inside `<style>` tags in HTML for layouts and animations.
 
-Contact Section – Quick and easy way to get in touch with me.
+- ⚡ **Interactive Elements:** JavaScript included in HTML for smooth animations and dynamic effects.
 
-🛠️ Technologies Used
-Technology	Description
-HTML5	Semantic and structured content
-CSS3	Custom styling for layouts, animations, and responsiveness
-JavaScript	Interactivity and dynamic effects within HTML
-Vercel	Hosting and deployment
+- 💼 **Projects Showcase:** Highlights selected works with descriptions and links.
 
-📂 Project Structure
-portfolio-website/
-│── index.html        # Main HTML file containing CSS & JS
-│── images/           # Folder containing all images used in the website
-└── README.md         # Project documentation
+- 📬 **Contact Section:** Provides a simple way to connect with me.
 
-🌍 Live Demo
 
-🔗 View Portfolio on Vercel
-https://tejasrm-github-io.vercel.app/
+## Tech Stack
+- **Frontend:** HTML, CSS, JavaScript  
+- **Hosting:** Vercel
 
-📧 Contact Me
-Platform	Link
-Email	tejasrm2004@gmail.com
 
-LinkedIn	linkedin.com/in/tejas-r-m-70205a24b
+## Installation
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/Tejas2913/your-portfolio-repo.git
+2. **Open the `index.html` file** in any web browser.  
+3. **All functionality** is built into the HTML file; no additional setup is required.
 
-GitHub	github.com/Tejas2913
+## Live Demo
+🔗 **View Portfolio on Vercel:** [https://your-vercel-link.vercel.app/](https://tejasrm-github-io.vercel.app/)
 
-✨ Feel free to explore my portfolio and reach out for collaborations or opportunities!
+## Contact
+📩 **Email:** tejasrm2004@gmail.com  
+
+💼 **LinkedIn:** [linkedin.com/in/tejas-r-m-70205a24b](https://www.linkedin.com/in/tejas-r-m-70205a24b/)  
+
+💻 **GitHub:** [github.com/Tejas2913](https://github.com/Tejas2913)
+
+## License
+This project is **open-source** and can be modified as needed.
