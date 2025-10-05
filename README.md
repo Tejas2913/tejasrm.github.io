@@ -49,8 +49,6 @@ All styling and interactivity are included in the HTML file, with an `images` fo
 
 💼 **LinkedIn:** [linkedin.com/in/tejas-r-m-70205a24b](https://www.linkedin.com/in/tejas-r-m-70205a24b/)  
 
-💻 **GitHub:** [github.com/Tejas2913](https://github.com/Tejas2913)
-
 ## License
 This project is **open-source** and can be modified as needed.
 
