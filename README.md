@@ -36,7 +36,8 @@ All styling and interactivity are included in the HTML file, with an `images` fo
 ## Installation
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/Tejas2913/your-portfolio-repo.git
+   git clone https://github.com/Tejas2913/tejasrm.github.io.git
+   ```
 2. **Open the `index.html` file** in any web browser.  
 3. **All functionality** is built into the HTML file; no additional setup is required.
 
