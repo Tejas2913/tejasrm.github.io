@@ -16,7 +16,7 @@ All styling and interactivity are included in the HTML file, with an `images` fo
   Works seamlessly on desktop, tablet, and mobile devices.
 
 - 🎨 **Custom Styling**  
-  CSS included inside `<style>` tags in HTML for layouts, colors, and smooth animations.
+  CSS included via an external style.css file for layouts, colors, and smooth animations.
 
 - ⚡ **Interactive Elements**  
   JavaScript is included in HTML for dynamic effects and smooth interactions.
