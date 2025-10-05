@@ -22,7 +22,7 @@ All styling and interactivity are included in the HTML file, with an `images` fo
   JavaScript is included in HTML for dynamic effects and smooth interactions.
 
 - 💼 **Projects Showcase**  
-  Highlights selected works with descriptions, images, and links.
+  Highlights selected works with descriptions, and links.
 
 - 📬 **Contact Section**  
   Simple way to connect with me through email, LinkedIn, or GitHub.
