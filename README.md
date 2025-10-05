@@ -41,7 +41,7 @@ All styling and interactivity are included in the HTML file, with an `images` fo
 3. **All functionality** is built into the HTML file; no additional setup is required.
 
 ## Live Demo
-🔗 **View Portfolio on Vercel:** [https://your-vercel-link.vercel.app/](https://tejasrm-github-io.vercel.app/)
+🔗 **View Portfolio on Vercel:** [https://tejasrm-github-io.vercel.app/](https://tejasrm-github-io.vercel.app/)
 
 ## Contact
 📩 **Email:** tejasrm2004@gmail.com  
